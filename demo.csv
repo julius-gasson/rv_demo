@@ -1,0 +1,22 @@
+ID;Data Campionamento;ORA Campionamento;Valore;Tipo Grandezza
+PDM1;20/07/2023;00:00:00;0.024;Pressione a valle
+PDM2;20/07/2023;00:00:00;0.017;Pressione a valle
+PDM1;20/07/2023;00:15:00;273.15;Temperatura Ambiente
+PDM2;20/07/2023;00:15:00;273.26;Temperatura Ambiente
+PDM1;20/07/2023;00:30:00;0.026;Pressione a valle
+PDM2;20/07/2023;00:30:00;0.018;Pressione a valle
+PDM1;20/07/2023;00:45:00;273.16;Temperatura Ambiente
+PDM2;20/07/2023;00:45:00;273.27;Temperatura Ambiente
+PDM1;20/07/2023;01:00:00;0.028;Pressione a valle
+PDM2;20/07/2023;01:00:00;0.017;Pressione a valle
+PDM1;20/07/2023;01:15:00;273.17;Temperatura Ambiente
+PDM2;20/07/2023;01:15:00;273.28;Temperatura Ambiente
+PDM1;20/07/2023;01:30:00;0.030;Pressione a valle
+PDM2;20/07/2023;01:30:00;0.016;Pressione a valle
+PDM1;20/07/2023;01:45:00;273.18;Temperatura Ambiente
+PDM2;20/07/2023;01:45:00;273.29;Temperatura Ambiente
+PDM1;20/07/2023;02:00:00;0.032;Pressione a valle
+PDM2;20/07/2023;02:00:00;0.027;Pressione a valle
+PDM1;20/07/2023;02:15:00;273.18;Temperatura Ambiente
+PDM2;20/07/2023;02:15:00;273.29;Temperatura Ambiente
+
